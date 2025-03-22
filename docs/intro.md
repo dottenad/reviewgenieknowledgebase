@@ -1,47 +1,50 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# ReviewStream Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **ReviewStream**, your all-in-one solution for collecting, managing, and leveraging customer reviews across the platforms that matter most.
 
-## Getting Started
+## What is ReviewStream?
 
-Get started by **creating a new site**.
+ReviewStream is a review generation platform built to help businesses:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+-   🚀 **Collect more reviews** from real customers, on platforms like Amazon, Google, Yelp, Zillow, and more.
+-   🎁 **Reward customers** for their honest feedback with automated gift distribution via Tremendous and other reward providers.
+-   🔍 **Track performance** with built-in analytics and platform-level insights.
+-   🔄 **Streamline workflows** with integrations and tools tailored for service providers, eCommerce brands, SaaS businesses, and more.
 
-### What you'll need
+## Why Reviews Matter
 
--   [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-    -   When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Online reviews are the modern-day word-of-mouth. They build trust, influence purchasing decisions, and directly impact your brand’s visibility and reputation. But collecting quality reviews is hard—and that’s where ReviewStream comes in.
 
-## Generate a new site
+## How It Works
 
-Generate a new Docusaurus site using the **classic template**.
+1. **Create a Review Page**  
+   Set up a branded review request page in minutes.
 
-The classic template will automatically be added to your project after you run the command:
+2. **Select Your Platforms**  
+   Choose the platforms where you want your customers to leave reviews.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+3. **Distribute to Customers**  
+   Share your link, upload order numbers, or embed a form directly into your workflow.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+4. **Reward Automatically**  
+   Once a review is verified, the customer receives their reward—automatically.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Built for Growth
 
-## Start your site
+Whether you're a solo founder or managing a multi-product brand, ReviewStream gives you the tools to scale your social proof:
 
-Run the development server:
+-   Custom branding
+-   Conditional reward logic
+-   Pre-validated codes and order number uploads
+-   API access and webhooks
+-   Secure and compliant review flows
 
-```bash
-cd my-website
-npm run start
-```
+---
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Ready to start collecting better reviews?  
+Let’s get started.
