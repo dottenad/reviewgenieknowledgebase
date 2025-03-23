@@ -1,5 +1,5 @@
 ---
-title: "Add Platform"
+title: "Add Item"
 sidebar_position: 2
 ---
 

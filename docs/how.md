@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # How ReviewStream Works
 
 Welcome to **ReviewStream** – your automated platform for collecting authentic reviews and turning customer experiences into growth!

@@ -1,5 +1,5 @@
 ---
-title: "Edit Platform"
+title: "Edit Item"
 sidebar_position: 3
 ---
 
