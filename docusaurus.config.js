@@ -59,8 +59,9 @@ const config = {
             image: "img/docusaurus-social-card.jpg",
             navbar: {
                 logo: {
-                    alt: "My Site Logo",
+                    alt: "ReviewStream.ai",
                     src: "img/logo.svg",
+                    srcDark: "img/logo_dark.svg",
                 },
                 items: [],
             },
