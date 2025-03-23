@@ -6,6 +6,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
+    --ifm-font-family-base: "Mark", "Arial", sans-serif;
+    --ifm-heading-font-family: "Mark", "Arial", sans-serif;
     --ifm-color-primary: #0ea5e9;
     --ifm-color-primary-dark: #008dd1;
     --ifm-color-primary-darker: #007abf;
@@ -27,4 +29,111 @@
     --ifm-color-primary-lighter: #39c6ff;
     --ifm-color-primary-lightest: #3bd2ff;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Mark-Book */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Book.woff2") format("woff2"),
+        url("/static/fonts/Mark-Book.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Mark-Book Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Book-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Book-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Mark-Bold */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Bold.woff2") format("woff2"),
+        url("/static/fonts/Mark-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Mark-Bold Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Bold-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Bold-Italic.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Mark-Black Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Black-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Black-Italic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Mark-Light Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Light-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Light-Italic.woff") format("woff");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Mark-Medium */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Medium.woff2") format("woff2"),
+        url("/static/fonts/Mark-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Mark-Medium Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Medium-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Medium-Italic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Mark-Regular */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Regular.woff2") format("woff2"),
+        url("/static/fonts/Mark-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Mark-Regular Italic */
+@font-face {
+    font-family: "Mark";
+    src: url("/static/fonts/Mark-Regular-Italic.woff2") format("woff2"),
+        url("/static/fonts/Mark-Regular-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Ensure default font styles are correctly applied */
+body,
+html {
+    font-family: "Mark", "Arial", sans-serif;
+    font-weight: 400;
 }
