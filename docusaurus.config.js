@@ -36,6 +36,13 @@ const config = {
         locales: ["en"],
     },
 
+    scripts: [
+        {
+            src: "https://code.tidio.co/jb3nsdc0yxxxhimabhfqmk6lmnjdpaqy.js",
+            async: true,
+        },
+    ],
+
     presets: [
         [
             "classic",
@@ -56,7 +63,7 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
-            image: "img/docusaurus-social-card.jpg",
+            image: "img/reviewstream-card.jpg",
             navbar: {
                 logo: {
                     alt: "ReviewStream.ai",
