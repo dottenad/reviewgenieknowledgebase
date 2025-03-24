@@ -31,7 +31,7 @@ Provide a name for your business. This name will be shown to your respondent, so
 
 Select which platforms you would like to make active for this business. Once you have activated a platform, you will then need to input the unique platform ID for this item.
 
-<!-- ![Choose Platform(s)](/img/items/businesses/platforms.png) -->
+![Choose Platform(s)](/img/items/businesses/platforms.png)
 
 **Note**: Do not input the entire platform URL into the business ID field on ReviewStream unless the instrutions call for it. Please reference the "Where do I find this?" link next to each platform input field to ensure you are inputting the correct value.
 
@@ -40,20 +40,20 @@ Select which platforms you would like to make active for this business. Once you
 If you don’t see your platform listed:
 
 -   Click the **“+ Add Platform”** button at the bottom of the list of review platforms.
-    <!-- ![Choose Platform(s)](/img/items/businesses/add_platform.png) -->
+    ![Choose Platform(s)](/img/items/businesses/add_platform.png)
 -   Once you have added your desired platform, return to the "Add Business" page to finish adding your business.
 
 ### 5. Upload Image (optional)
 
 Uploading a business image will show your respondent an image of the business they interacted with. Uploading an image provides valuable visual recall to your respondent to ensure they are selecting the correct business that they had an interaction with.
 
-<!-- ![Upload Image (optional)](/img/items/businesses/image.png) -->
+![Upload Image (optional)](/img/items/businesses/image.png)
 
 ### 6. Click “Save”
 
 Once all required fields are filled out, click **Save**. Your new business will now be available for assigning to landing pages.
 
-<!-- ![Click “Save”](/img/items/businesses/save.png) -->
+![Click “Save”](/img/items/businesses/save.png)
 
 ---
 

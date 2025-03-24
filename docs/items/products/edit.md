@@ -37,7 +37,7 @@ Select which platforms you would like to edit for this product. You can de-activ
 
 If you would like to update your product image, locate the "Product Image" section and click the "Choose File" button. From here, select the new image you would like to upload.
 
-![Edit Platform(s)](/img/items/products/edit_image.png)
+![Edit Product Image](/img/items/products/edit_image.png)
 
 ---
 
