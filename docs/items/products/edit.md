@@ -1,17 +1,27 @@
 ---
-title: "Edit Item"
+title: "Edit Product"
 sidebar_position: 3
 ---
 
-# How to Edit a Platform
+# How to Edit a Product
 
-This article outlines how to update a platform in your admin dashboard and explains why certain fields are editable while others are not.
+This article outlines how to update a product in your dashboard
 
 ---
 
-## Platform Name (Editable)
+## Locate The Product You Would Like To Edit
 
-The **Platform Name** is used as an internal label to help you identify this platform within your account. This is fully editable and **does not affect** what the customer sees.
+On the [Products](https://app.reviewstream.ai/products) page of your ReviewStream account, locate the product you would like to edit, then click the Pencil icon.
+
+**You can update this field anytime.**
+
+![Edit Platform example](/img/items/products/edit.png)
+
+---
+
+## Product Name
+
+To edit your product name, locate the "Product Name" section
 
 **You can update this field anytime.**
 

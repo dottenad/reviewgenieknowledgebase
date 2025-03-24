@@ -5,7 +5,15 @@ sidebar_position: 3
 
 # How to Edit a Platform
 
-This article outlines how to update a platform in your admin dashboard and explains why certain fields are editable while others are not.
+This article outlines how to update a platform in your dashboard
+
+---
+
+## Locate The Platform You Would Like To Edit
+
+On the [Platforms](https://app.reviewstream.ai/platforms) page of your ReviewStream account, locate the platform you would like to edit, then click the Pencil icon.
+
+![Edit Platform example](/img/platforms/edit.png)
 
 ---
 
@@ -15,7 +23,7 @@ The **Platform Name** is used as an internal label to help you identify this pla
 
 **You can update this field anytime.**
 
-![Edit Platform example](/img/platforms/edit_platform.png)
+![Edit Platform example](/img/platforms/edit_name.png)
 
 ---
 
@@ -25,7 +33,7 @@ The **Selected Platform** refers to the master platform chosen when the platform
 
 **This field is locked** because it determines key platform-specific behaviors. If you were able to change a platform after it has been created and you have already assigned products of businesses to it with their own unique IDs, these products or businesses would break because the platform that the products or businesses were originally created for are now using a different platform.
 
-If you need to associate this configuration with a different platform, delete the current platform and create a new one.
+If you need a new platform, [add one](https://app.reviewstream.ai/platforms/add)
 
 ![Edit Platform example](/img/platforms/edit_platform.png)
 
