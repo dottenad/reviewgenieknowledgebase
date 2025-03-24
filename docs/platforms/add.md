@@ -54,4 +54,4 @@ Once all required fields are filled out, click **Save**. Your new platform will 
 
 ## Next Step
 
-After you've added one or more platforms, you can [assign them to a product or business](../products/add.md) to begin collecting reviews.
+After you've added one or more platforms, you can [assign them to a product or business](../products/add) to begin collecting reviews.

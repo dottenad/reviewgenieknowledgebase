@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # How to Add a Product
 
-An **Product** is _what_ you would like reviews on. Learn how to add an item below.
+A **Product** is _what_ you would like reviews on. Learn how to add a product below.
 
 ## Step-by-Step Instructions
 
@@ -35,7 +35,7 @@ Select which platforms you would like to make active for this product. Once you 
 
 **Note**: Do not input the entire platform URL into the product ID field on ReviewStream. ReviewStream constructs the proper review URL using _only_ the product ID.
 
-**Note**: Enabling multiple platforms on one product does not mean that these platforms will be used on every landing page. When you create a landing page, you will be able to designate which platforms you would like to activate for each landing page.
+**Note**: Do not input the entire platform URL into the business ID field on ReviewStream unless the instrutions call for it. Please reference the "Where do I find this?" link next to each platform input field to ensure you are inputting the correct value.
 
 If you don’t see your platform listed:
 
@@ -47,7 +47,7 @@ If you don’t see your platform listed:
 
 Uploading a product image will show your respondent an image of the item that they purchased from you. Uploading an image provides valuable visual recall to your respondent to ensure they are selecting the correct product that they purchased from you.
 
-![Choose Platform(s)](/img/items/products/image.png)
+![Upload Image (optional)](/img/items/products/image.png)
 
 ### 6. Click “Save”
 
@@ -59,7 +59,7 @@ Once all required fields are filled out, click **Save**. Your new product will n
 
 ## Tips
 
--   Rather than creating multiple of the same products, create one product and assign multiple platforms to it. Doing this will reduce clutter and confusion around which platform is assigned to which product.
+-   Rather than creating multiple of the same products in ReviewStream, create one product and assign multiple platforms to it. Doing this will reduce clutter and confusion around which platform is assigned to which product.
 -   You can reuse the same product across all of your landing pages. When you assign a product to a landing page, you will be able to select which platforms you would like to make active for that landing page.
 -   If you're unsure where to find platform-specific details, click the **“Where do I find this?”** link next to the input field.
 
@@ -67,4 +67,4 @@ Once all required fields are filled out, click **Save**. Your new product will n
 
 ## Next Step
 
-After you've added one or more product, you can assign them to a [survey](../landingpages/survey) or [review page](../landingpages/reviewpage) to begin collecting reviews.
+After you've added one or more products, you can assign them to a [survey](../landingpages/survey) or [review page](../landingpages/reviewpage) to begin collecting reviews.

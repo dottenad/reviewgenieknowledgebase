@@ -69,7 +69,7 @@ Each Item can be connected to one or more **review platforms**, depending on whe
 
 > Don’t see what you need? Use the **“Request a Platform”** feature during setup to suggest additional review sites.
 
-Each platform has different **requirements**. For example, some platforms require an order number or proof of purchase. Learn more about how platforms work in [Add a Platform](./add.md) and [Edit a Platform](./edit.md).
+Each platform has different **requirements**. For example, some platforms require an order number or proof of purchase. Learn more about how platforms work in [Add a Platform](./add) and [Edit a Platform](./edit).
 
 ---
 
@@ -91,10 +91,10 @@ You can reuse the same Item across multiple surveys or promotions, and each one 
 
 If you're unsure which type of Item to create or how to configure one:
 
--   📚 Visit our [Add a Platform](./add.md) and [Edit a Platform](./edit.md) guides
--   🧩 Check our platform-specific instructions in the [Platform Directory](../platforms/platforms.md)
+-   📚 Visit our [Add a Platform](./add) and [Edit a Platform](./edit) guides
+-   🧩 Check our platform-specific instructions in the [Platform Directory](../platforms/platforms)
 -   💬 Contact support via live chat (bottom-right corner of the page)
 
 ---
 
-Ready to add your first Item? Let’s go 👉 [Get Started with Adding an Item](../items/add.md)
+Ready to add your first Item? Let’s go 👉 [Get Started with Adding an Item](../items/add)

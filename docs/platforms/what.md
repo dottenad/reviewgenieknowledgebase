@@ -26,4 +26,4 @@ ReviewStream supports many popular review platforms out of the box. If the platf
 
 ## Need Help?
 
-If you're unsure which platforms to add or how to configure them, check out our [Add a Platform](./add.md) and [Edit a Platform](./edit.md) guides.
+If you're unsure which platforms to add or how to configure them, check out our [Add a Platform](./add) and [Edit a Platform](./edit) guides.
