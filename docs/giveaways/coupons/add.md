@@ -68,6 +68,9 @@ A **Single-Use Coupon** is a unique code that can be redeemed **only once** by a
 **How to input single-use codes**:  
 Enter multiple codes separated by commas (e.g., `ABC123, DEF456, GHI789`).
 
+**How single-use codes are distributed**:  
+Codes are sent from first in the list to last in the list. For example, if you enter the coupon codes `ABC123, DEF456, GHI789` and your customer completes the survey and selects this coupon giveaway as their free gift, `ABC123` would be mailed to your customer, leaving `DEF456, GHI789` left in your coupon giveaway. single-use coupon codes are sent until there are none left on the coupon giveaway.
+
 ![Single Use Coupon Code](/img/giveaways/single_use.png)
 
 ### 🔁 Multi-Use Coupon
@@ -89,7 +92,7 @@ Enter a single code (e.g., `SAVE10`) that will be used across all qualifying cus
 
 ### 7. Customize Email Template
 
-After selecting your coupon type, you can customize the **email template** that will be sent to eligible respondents.
+After selecting your coupon type, you can customize the **email template** that will be sent to eligible respondents. This is beneficial for situations where you need to send your customer to **YOUR** website in order to use the coupon code that they are sent.
 
 You can update:
 
