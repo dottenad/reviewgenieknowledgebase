@@ -1,6 +1,6 @@
 ---
 title: "What Is a Giveaway?"
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # What Is a Giveaway?
@@ -67,7 +67,7 @@ They’re especially helpful for launching new products, gathering early tractio
 
 If you're not sure how to set up a Giveaway or configure your campaign properly:
 
--   📚 Visit our [Item Setup Guides](../items/product) or [Platform Setup](../platforms/add)
+-   📚 Visit our [Item Setup Guides](../items/what) or [Platform Setup](../platforms/what)
 -   🎯 Check out campaign examples for inspiration
 -   💬 Contact support via live chat (bottom-right corner of your screen)
 
