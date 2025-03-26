@@ -132,4 +132,4 @@ Once all required fields are filled out, click **Save**. Your coupon giveaway wi
 
 ## Next Step
 
-After you've added one or more giveaways, you can assign them to a [survey](../landingpages/survey) or [review page](../landingpages/reviewpage) to begin collecting reviews.
+After you've added one or more giveaways, you can assign them to a survey or review page to begin collecting reviews.
