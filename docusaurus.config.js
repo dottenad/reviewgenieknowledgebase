@@ -43,15 +43,6 @@ const config = {
         },
     ],
 
-    plugins: [
-        [
-            "@docusaurus/plugin-google-gtag",
-            {
-                trackingID: "G-X293T9DWTG",
-            },
-        ],
-    ],
-
     presets: [
         [
             "classic",
@@ -67,6 +58,8 @@ const config = {
             }),
         ],
     ],
+
+    plugins: [require.resolve("./src/plugins/gtm")],
 
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
