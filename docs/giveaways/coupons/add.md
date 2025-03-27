@@ -57,34 +57,34 @@ You may upload an image that visually represents your coupon. While not required
 
 There are two types of coupon codes in ReviewStream:
 
-### 🔒 Single-Use Coupon
+-   #### Single-Use Coupon
 
-A **Single-Use Coupon** is a unique code that can be redeemed **only once** by a single customer.
+    A **Single-Use Coupon** is a unique code that can be redeemed **only once** by a single customer.
 
--   Once a customer uses this code, it becomes invalid for all others.
--   Ideal for personalized or limited-use promotions.
--   Helps prevent abuse by limiting the code to one redemption.
+    -   Once a customer uses this code, it becomes invalid for all others.
+    -   Ideal for personalized or limited-use promotions.
+    -   Helps prevent abuse by limiting the code to one redemption.
 
-**How to input single-use codes**:  
-Enter multiple codes separated by commas (e.g., `ABC123, DEF456, GHI789`).
+    **How to input single-use codes**:  
+    Enter multiple codes separated by commas (e.g., `ABC123, DEF456, GHI789`).
 
-**How single-use codes are distributed**:  
-Codes are sent from first in the list to last in the list. For example, if you enter the coupon codes `ABC123, DEF456, GHI789` and your customer completes the survey and selects this coupon giveaway as their free gift, `ABC123` would be mailed to your customer, leaving `DEF456, GHI789` left in your coupon giveaway. single-use coupon codes are sent until there are none left on the coupon giveaway.
+    **How single-use codes are distributed**:  
+    Codes are sent from first in the list to last in the list. For example, if you enter the coupon codes `ABC123, DEF456, GHI789` and your customer completes the survey and selects this coupon giveaway as their free gift, `ABC123` would be mailed to your customer, leaving `DEF456, GHI789` left in your coupon giveaway. single-use coupon codes are sent until there are none left on the coupon giveaway.
 
-![Single Use Coupon Code](/img/giveaways/single_use.png)
+    ![Single Use Coupon Code](/img/giveaways/single_use.png)
 
-### 🔁 Multi-Use Coupon
+-   #### Multi-Use Coupon
 
-A **Multi-Use Coupon** is a shared code that can be redeemed **multiple times** by different customers.
+    A **Multi-Use Coupon** is a shared code that can be redeemed **multiple times** by different customers.
 
--   The same code is distributed to all eligible respondents.
--   Useful for broad promotions or general discounts.
--   Easier to manage when you don’t need to track individual redemptions.
+    -   The same code is distributed to all eligible respondents.
+    -   Useful for broad promotions or general discounts.
+    -   Easier to manage when you don’t need to track individual redemptions.
 
-**How to input a multi-use code**:  
-Enter a single code (e.g., `SAVE10`) that will be used across all qualifying customers.
+    **How to input a multi-use code**:  
+     Enter a single code (e.g., `SAVE10`) that will be used across all qualifying customers.
 
-![Multi Use Coupon Code](/img/giveaways/multi_use.png)
+    ![Multi Use Coupon Code](/img/giveaways/multi_use.png)
 
 > 💡 **Tip**: Use **Single-Use** for high-value or one-time offers. Use **Multi-Use** for ongoing discounts or wide promotions.
 
