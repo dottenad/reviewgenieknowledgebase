@@ -93,3 +93,66 @@ Fetch a list of reviews submitted to your account.
     ]
 }
 ```
+
+---
+
+### `POST /webhooks/register`
+
+Register a new webhook to receive updates (e.g., when a new review is submitted).
+
+-   **URL:** `https://api.reviewstream.ai/webhooks/register`
+-   **Method:** `POST`
+-   **Authentication:** Required
+
+#### Request Body
+
+```json
+{
+    "url": "https://api.reviewstream.ai/webhook-endpoint",
+    "event": "new_review"
+}
+```
+
+> Note: `event` is optional. Defaults to `"new_review"` if not provided.
+
+#### Success Response
+
+```json
+{
+    "message": "Webhook registered successfully."
+}
+```
+
+#### Error Response
+
+```json
+{
+    "error": "Webhook URL and event type are required."
+}
+```
+
+---
+
+### `POST /webhooks/unregister`
+
+Unregister an existing webhook for your account.
+
+-   **URL:** `https://api.reviewstream.ai/webhooks/unregister`
+-   **Method:** `DELETE`
+-   **Authentication:** Required
+
+#### Request Body
+
+```json
+{
+    "url": "https://api.reviewstream.ai/webhook-endpoint"
+}
+```
+
+#### Success Response
+
+```json
+{
+    "message": "Webhook unregistered successfully."
+}
+```
