@@ -133,7 +133,7 @@ Register a new webhook to receive updates (e.g., when a new review is submitted)
 
 ---
 
-### `POST /webhooks/unregister`
+### `DELETE /webhooks/unregister`
 
 Unregister an existing webhook for your account.
 
