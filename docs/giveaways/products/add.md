@@ -5,7 +5,11 @@ sidebar_position: 2
 
 # How to Add a Product Giveaway
 
-A **Product Giveaway** is a physical item, such as a water bottle or phone charger, that you give away, free of charge, to your respondent for providing their review on your product or service.
+A **Product Giveaway** in ReviewStream is a physical item (such as a hat or a coffee mug) that you give away, free of charge, to your respondent for providing their review on your product or service.
+
+Unlike a coupon giveaway or an eGift giveaway, **Product Giveaways are a physical item that require shipping**.
+
+---
 
 ## Step-by-Step Instructions
 

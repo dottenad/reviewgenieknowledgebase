@@ -5,11 +5,15 @@ sidebar_position: 3
 
 # How to Edit a Product Giveaway
 
-This article outlines how to edit a product giveaway in ReviewStream
+A **Product Giveaway** in ReviewStream is a physical item (such as a hat or a coffee mug) that you give away, free of charge, to your respondent for providing their review on your product or service.
+
+Unlike a coupon giveaway or an eGift giveaway, **Product Giveaways are a physical item that require shipping**.
 
 ---
 
-## Find The Product Giveaway You'd Like To Edit
+## Step-by-Step Instructions
+
+### Find The Product Giveaway You'd Like To Edit
 
 On the [Giveaways](https://app.reviewstream.ai/giveaways) page of your ReviewStream account, locate the product giveaway you would like to edit, then click the Pencil icon.
 
@@ -17,7 +21,7 @@ On the [Giveaways](https://app.reviewstream.ai/giveaways) page of your ReviewStr
 
 ---
 
-## Edit Product Giveaway Name
+### Edit Product Giveaway Name
 
 To edit your product giveaway name, locate the "Giveaway Name" section
 
@@ -25,7 +29,7 @@ To edit your product giveaway name, locate the "Giveaway Name" section
 
 ---
 
-## Edit Product Giveaway Image
+### Edit Product Giveaway Image
 
 If you would like to update your product giveaway image, locate the "Giveaway Image" section and click the "Choose File" button. From here, select the new image you would like to upload.
 
@@ -33,7 +37,7 @@ If you would like to update your product giveaway image, locate the "Giveaway Im
 
 ---
 
-## Edit Product Giveaway Description
+### Edit Product Giveaway Description
 
 If you would like to edit your product giveaway description, locate the "Giveaway Description" section and modify the contents of the description as you see fit. This value will be shown to your respondent, so be sure to add something that properly describes this product giveaway.
 
@@ -41,7 +45,7 @@ If you would like to edit your product giveaway description, locate the "Giveawa
 
 ---
 
-## Edit Product Giveaway SKU Value
+### Edit Product Giveaway SKU Value
 
 If you would like to edit your product giveaway SKU value, locate the "Giveaway SKU" section and modify the value in the input field.
 

@@ -5,11 +5,13 @@ sidebar_position: 2
 
 # How to Add a Coupon Giveaway
 
-A **Coupon Giveaway** is a discount or promo code (such as `SAVE10` or `FREESHIP`) that is automatically emailed to your respondent after they complete your survey.
+A Coupon Giveaway in ReviewStream is a reward type where your customer receives a coupon code after completing a review. It's a simple yet effective incentive—customers complete your review flow, and they’re emailed a coupon they can use on their next purchase.
 
-## Step-by-Step Instructions
+This giveaway type is ideal for driving repeat business, customer loyalty, and follow-up sales—all while boosting your reviews.
 
 ---
+
+## Step-by-Step Instructions
 
 ### 1. Select "Giveaways" In The Left-Hand Navigation
 
@@ -57,7 +59,7 @@ You may upload an image that visually represents your coupon. While not required
 
 There are two types of coupon codes in ReviewStream:
 
--   #### Single-Use Coupon
+-   ##### Single-Use Coupon
 
     A **Single-Use Coupon** is a unique code that can be redeemed **only once** by a single customer.
 
@@ -73,7 +75,7 @@ There are two types of coupon codes in ReviewStream:
 
     ![Single Use Coupon Code](/img/giveaways/single_use.png)
 
--   #### Multi-Use Coupon
+-   ##### Multi-Use Coupon
 
     A **Multi-Use Coupon** is a shared code that can be redeemed **multiple times** by different customers.
 
@@ -99,7 +101,7 @@ You can update:
 -   **Subject Line** – what shows up in the subject line of the user’s inbox.
 -   **Email Template (HTML)** – full HTML customization of the email body.
 
-#### Available Dynamic Tags
+##### Available Dynamic Tags
 
 You can use dynamic placeholders to personalize the email content:
 
@@ -133,6 +135,6 @@ Once all required fields are filled out, click **Save**. Your coupon giveaway wi
 
 ---
 
-## Next Step
+### Next Step
 
 After you've added one or more giveaways, you can assign them to a survey or review page to begin collecting reviews.

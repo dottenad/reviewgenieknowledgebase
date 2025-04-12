@@ -1,5 +1,5 @@
 ---
-title: "Add Product"
+title: "Add Review Page"
 sidebar_position: 2
 ---
 
