@@ -1,9 +1,27 @@
 ---
-title: "What Is a Business?"
+title: "What is a Business?"
 sidebar_position: 1
 ---
 
-# What Is a Business?
+# What is a Business?
+
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
+  <iframe
+    src="https://www.youtube.com/embed/TcnX28CBh24?si=WlAw8NQRTkGg8BDf"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%",
+    }}
+  ></iframe>
+</div>
 
 A **Business** in ReviewStream is any service, location, or company where the customer experience itself is being reviewed. This is one of the two primary item types in ReviewStream and is best suited for service-based providers, local businesses, or professionals.
 

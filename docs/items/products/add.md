@@ -5,6 +5,24 @@ sidebar_position: 2
 
 # How to Add a Product
 
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
+  <iframe
+    src="https://www.youtube.com/embed/paEtJmN2Bgo?si=50km3blqcXD1Epo9"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%",
+    }}
+  ></iframe>
+</div>
+
 A **Product** is _what_ you would like reviews on. Learn how to add a product below.
 
 ## Step-by-Step Instructions
