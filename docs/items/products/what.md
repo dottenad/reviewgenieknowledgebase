@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # What Is a Product?
 
-A **Product** in ReviewStream is an item that your customer purchased from your business. This is one of the two main item types on RevieweStream and is typically used for eCommerce businesses.
+A **Product** in ReviewStream is an item that your customer purchased from your business. This is one of the two main item types on ReviewStream and is typically used for eCommerce businesses.
 
 A Product is a reviewable entity tied directly to a customer purchase. When someone buys your product—whether on Amazon, Etsy, Shopify, or another platform—you can direct them to the review page for the exact product they purchased from you.
 

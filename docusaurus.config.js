@@ -66,6 +66,27 @@ const config = {
         ({
             // Replace with your project's social card
             image: "img/reviewstream-card.jpg",
+            metadata: [
+                {
+                    name: "description",
+                    content:
+                        "ReviewStream makes it easy for businesses to boost their online reputation by guiding customers to leave reviews on the platforms that matter to your business.",
+                },
+                { property: "og:title", content: "ReviewStream.ai" },
+                {
+                    property: "og:description",
+                    content: "Grow Your Online Reviews with ReviewStream.ai",
+                },
+                {
+                    property: "og:image",
+                    content: "https://support.reviewstream.ai/img/thumb.jpg",
+                },
+                {
+                    property: "og:url",
+                    content: "https://support.reviewstream.ai",
+                },
+                { name: "twitter:card", content: "summary_large_image" },
+            ],
             navbar: {
                 logo: {
                     alt: "ReviewStream.ai",
