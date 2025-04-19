@@ -5,6 +5,24 @@ sidebar_position: 2
 
 # How to Add a Platform
 
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
+  <iframe
+    src="https://www.youtube.com/embed/d8SX8bnY-SY?si=_g_9ZJWZcnORNt8S"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%",
+    }}
+  ></iframe>
+</div>
+
 Adding a **Platform** in ReviewStream allows you to define where you want your customers to leave their reviews — such as Amazon, Google, or Yelp.
 
 ## Step-by-Step Instructions

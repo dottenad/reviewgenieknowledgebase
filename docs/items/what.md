@@ -5,6 +5,24 @@ sidebar_position: 1
 
 # What Is An Item?
 
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
+  <iframe
+    src="https://www.youtube.com/embed/u75kuJWjnEk?si=FdZa87dLmpFq3nrJ"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{
+      position: "absolute",
+      top: 0,
+      left: 0,
+      width: "100%",
+      height: "100%",
+    }}
+  ></iframe>
+</div>
+
 An **Item** is the product, service, or business you want your customers to leave a review for. In ReviewStream, Items are the building blocks of your review strategy. When you create a landing page in ReviewStream, it’s always tied to at least one Item.
 
 Think of Items as **reviewable entities**. They define **what** you're asking the customer to review.
