@@ -7,7 +7,7 @@ sidebar_position: 2
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe
-    src="https://www.youtube.com/embed/paEtJmN2Bgo?si=50km3blqcXD1Epo9"
+    src="https://www.youtube.com/embed/Tv30O-fg7Yo?si=tOqV_4-9BP0FTepL"
     title="YouTube video player"
     frameBorder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
