@@ -16,6 +16,8 @@ ReviewStream is a review generation platform built to help businesses:
 -   🔍 **Track performance** with built-in analytics and platform-level insights.
 -   🔄 **Streamline workflows** with integrations and tools tailored for service providers, eCommerce brands, SaaS businesses, and more.
 
+![Select "Businesses" In The Left-Hand Navigation](/img/funnel.png)
+
 ## Why Reviews Matter
 
 Online reviews are the modern-day word-of-mouth. They build trust, influence purchasing decisions, and directly impact your brand’s visibility and reputation. But collecting quality reviews is hard—and that’s where ReviewStream comes in.

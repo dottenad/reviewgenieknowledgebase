@@ -7,7 +7,7 @@ sidebar_position: 2
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe
-    src="https://www.youtube.com/embed/Tv30O-fg7Yo?si=tOqV_4-9BP0FTepL"
+    src="https://www.youtube.com/embed/paEtJmN2Bgo?si=5zQrUzXcIEkbkiNd"
     title="YouTube video player"
     frameBorder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -23,7 +23,14 @@ sidebar_position: 2
   ></iframe>
 </div>
 
-A **Product** is _what_ you would like reviews on. Learn how to add a product below.
+A **Product** refers to a physical or digital good you offer—something your customer has purchased or received. This could be:
+
+-   A wireless headset
+-   A yoga mat
+-   A subscription box
+-   A digital course or eBook
+
+---
 
 ## Step-by-Step Instructions
 
