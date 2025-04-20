@@ -1,9 +1,9 @@
 ---
-title: "What Is A Landing Page?"
+title: "What is a Landing Page?"
 sidebar_position: 1
 ---
 
-# What Is A Landing Page?
+# What is a Landing Page?
 
 A **Landing Page** is a dedicated page where you send your customers to collect reviews through ReviewStream. These pages serve as the bridge between your business and your customer’s feedback.
 

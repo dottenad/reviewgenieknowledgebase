@@ -3,7 +3,7 @@ title: "Edit Business"
 sidebar_position: 3
 ---
 
-# How to Edit a Business
+# Edit a Business
 
 This article outlines how to edit a business in ReviewStream
 

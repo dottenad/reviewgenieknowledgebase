@@ -1,9 +1,9 @@
 ---
-title: "What Is A Review Page?"
+title: "What is a Review Page?"
 sidebar_position: 1
 ---
 
-# What Is A Review Page?
+# What is a Review Page?
 
 A **Review Page** in ReviewStream is a streamlined landing page designed to collect honest customer feedback and then guide the customer to leave a review on your preferred platform (like Google, Yelp, or Amazon).
 

@@ -3,7 +3,7 @@ title: "Add Business"
 sidebar_position: 2
 ---
 
-# How to Add a Business
+# Add a Business
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe

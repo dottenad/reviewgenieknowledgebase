@@ -3,7 +3,7 @@ title: "Edit Product Giveaway"
 sidebar_position: 3
 ---
 
-# How to Edit a Product Giveaway
+# Edit a Product Giveaway
 
 A **Product Giveaway** in ReviewStream is a physical item (such as a hat or a coffee mug) that you give away, free of charge, to your respondent for providing their review on your product or service.
 

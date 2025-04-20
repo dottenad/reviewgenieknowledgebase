@@ -3,7 +3,7 @@ title: "Edit Platform"
 sidebar_position: 3
 ---
 
-# How to Edit a Platform
+# Edit a Platform
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe

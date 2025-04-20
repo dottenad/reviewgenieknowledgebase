@@ -3,7 +3,7 @@ title: "Add Coupon Giveaway"
 sidebar_position: 2
 ---
 
-# How to Add a Coupon Giveaway
+# Add a Coupon Giveaway
 
 A Coupon Giveaway in ReviewStream is a reward type where your customer receives a coupon code after completing a review. It's a simple yet effective incentive—customers complete your review flow, and they’re emailed a coupon they can use on their next purchase.
 

@@ -1,9 +1,9 @@
 ---
-title: "What Is An Item?"
+title: "What is an Item?"
 sidebar_position: 1
 ---
 
-# What Is An Item?
+# What is an Item?
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe

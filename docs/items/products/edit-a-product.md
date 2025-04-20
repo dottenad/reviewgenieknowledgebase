@@ -3,11 +3,11 @@ title: "Edit Product"
 sidebar_position: 3
 ---
 
-# How to Edit a Product
+# Edit a Product
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe
-    src="https://www.youtube.com/embed/Tv30O-fg7Yo?si=tOqV_4-9BP0FTepL"
+    src="https://www.youtube.com/embed/P8w3Mtv-EE8?si=0XG2GKhbu37js-3C"
     title="YouTube video player"
     frameBorder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

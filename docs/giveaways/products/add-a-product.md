@@ -3,7 +3,7 @@ title: "Add Product Giveaway"
 sidebar_position: 2
 ---
 
-# How to Add a Product Giveaway
+# Add a Product Giveaway
 
 A **Product Giveaway** in ReviewStream is a physical item (such as a hat or a coffee mug) that you give away, free of charge, to your respondent for providing their review on your product or service.
 

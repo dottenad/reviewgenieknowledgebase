@@ -3,7 +3,7 @@ title: "Add Survey"
 sidebar_position: 2
 ---
 
-# How to Add a Survey
+# Add a Survey
 
 A **Survey** in ReviewStream is a landing page designed to collect feedback from your customers. Surveys are commonly used when you're offering a **giveaway**—such as a product or coupon—in exchange for a review.
 

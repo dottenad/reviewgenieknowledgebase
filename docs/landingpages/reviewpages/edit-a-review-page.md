@@ -3,7 +3,7 @@ title: "Edit Review Page"
 sidebar_position: 3
 ---
 
-# How to Edit a Product
+# Edit a Product
 
 This article outlines how to edit a product in ReviewStream
 

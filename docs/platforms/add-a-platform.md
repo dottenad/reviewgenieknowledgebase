@@ -3,7 +3,7 @@ title: "Add Platform"
 sidebar_position: 2
 ---
 
-# How to Add a Platform
+# Add a Platform
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", marginBottom: "20px", }}>
   <iframe

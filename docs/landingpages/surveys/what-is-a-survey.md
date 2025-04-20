@@ -1,9 +1,9 @@
 ---
-title: "What Is A Survey?"
+title: "What is a Survey?"
 sidebar_position: 1
 ---
 
-# What Is A Survey?
+# What is a Survey?
 
 A **Survey** in ReviewStream is a landing page designed to collect feedback from your customers. Surveys are commonly used when you're offering a **giveaway**—such as a product or coupon—in exchange for a review.
 
