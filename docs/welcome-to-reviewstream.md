@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome to ReviewStrea
+# Welcome to ReviewStream
 
 Welcome to **ReviewStream**, your all-in-one solution for collecting, managing, and leveraging customer reviews across the platforms that matter most.
 
